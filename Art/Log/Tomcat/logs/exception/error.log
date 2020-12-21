@@ -1,0 +1,6 @@
+[ERROR] [2020/12/21 20:57:59:862 org.hibernate.engine.jdbc.spi.SqlExceptionHelper-logExceptions] : Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+[ERROR] [2020/12/21 20:58:47:976 org.hibernate.engine.jdbc.spi.SqlExceptionHelper-logExceptions] : Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
